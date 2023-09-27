@@ -9,4 +9,9 @@
 5. 進程音視頻播放解凍
 6. Android 14 兼容性更新
 
+## 下載地址
+https://github.com/Nep-Timeline/NoA-Mod/releases
+
+https://123pan.com/s/h1szVv-FKV1H.html
+
 ## 更新日誌
