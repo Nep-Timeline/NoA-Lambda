@@ -18,3 +18,7 @@ https://github.com/Nep-Timeline/NoA-Mod/releases
 https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
+
+2.2 -> 3.0
+1. 修復舊版安卓機型FCM解凍Hook報錯
+2. 流暢度增加
