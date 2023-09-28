@@ -19,6 +19,10 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+3.0 -> 3.1
+1. 修復Android 10的一些bug
+2. 嘗試提高凍結速度
+
 2.2 -> 3.0
 1. 修復舊版安卓機型FCM解凍Hook報錯
 2. 流暢度增加
