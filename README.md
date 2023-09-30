@@ -19,6 +19,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+7.55 -> 7.65
+1. 修復凍結bug及解凍速率
+
 7.5 -> 7.55
 1. 修復系統自帶app不凍結的bug
 
