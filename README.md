@@ -8,6 +8,7 @@
 4. 網絡解凍(僅限MIUI)
 5. 進程音視頻播放解凍
 6. Android 14 兼容性更新
+7. 支持多開應用凍結
 
 ## 提示
 與最新版NoActiveV2和內測版NoActiveV3配置文件不兼容
@@ -18,6 +19,9 @@ https://github.com/Nep-Timeline/NoA-Mod/releases
 https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
+
+7.66 -> 8.0
+1. 支持多開應用
 
 7.65 -> 7.66
 1. 修復網絡解凍bug
