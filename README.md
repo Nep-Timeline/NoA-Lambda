@@ -20,6 +20,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+8.1 -> 8.2
+1. 嘗試修復音視頻APP不會凍結的bug
+
 8.0 -> 8.1
 1. 嘗試修復QQ循環解凍凍結的bug
 
