@@ -21,6 +21,11 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+10.0 -> 10.5
+1. 修復binder解凍bug
+2. 在應用內添加凍結binder開關
+3. 修復UI的一個bug
+
 9.2 -> 10.0
 1. 優化binder凍結邏輯
 
