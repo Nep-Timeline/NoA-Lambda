@@ -21,6 +21,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+10.5 -> 10.7
+1. 將後台播放選項移動至後台級別中
+
 10.0 -> 10.5
 1. 修復binder解凍bug
 2. 在應用內添加凍結binder開關
