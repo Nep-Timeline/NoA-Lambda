@@ -21,6 +21,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+9.2 -> 10.0
+1. 優化binder凍結邏輯
+
 9.1 -> 9.2
 1. 修復後台播放UID分割錯誤及判斷錯誤
 
