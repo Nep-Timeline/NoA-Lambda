@@ -21,6 +21,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+11.6 -> 11.7
+1. 修復bug，提升穩定性
+
 11.3 -> 11.6
 1. 嘗試提高解凍速度
 2. 修復日誌uid not found警告
