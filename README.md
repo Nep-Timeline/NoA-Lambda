@@ -21,6 +21,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+11.8 -> 11.85
+1. 修復解凍bugs
+
 11.7 -> 11.8
 1. 修復bug
 
