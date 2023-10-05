@@ -21,6 +21,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+11.7 -> 11.8
+1. 修復bug
+
 11.6 -> 11.7
 1. 修復bug，提升穩定性
 
