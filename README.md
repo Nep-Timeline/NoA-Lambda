@@ -21,6 +21,9 @@ https://123pan.com/s/h1szVv-FKV1H.html
 
 ## 更新日誌
 
+12.8_L2 -> 12.9_Q
+1. 再次嘗試修復不凍結bug
+
 12.8_L -> 12.8_L2
 1. 修復息屏Doze潜在bug
 
