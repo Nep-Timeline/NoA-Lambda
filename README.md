@@ -1,4 +1,4 @@
-![6a7d0dc2c883fdb5f3dfe584df474b82](https://github.com/Nep-Timeline/NoA-Mod/assets/53483352/8ccce0dd-db4c-4e11-8813-85bf11704bb7)# NoActive2-Mod
+# NoActive2-Mod
 在NoActive v3正式發佈前體驗更好的NoActive
 
 ## 目前與NoActiveV2原版的區別
