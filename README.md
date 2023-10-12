@@ -1,5 +1,5 @@
-# NoActive2-Mod
-在NoActive v3正式發佈前體驗更好的NoActive
+# NoActive-Mod
+体验更好的NoActive
 
 ## 目前與NoActiveV2原版的區別
 1. 流暢度增加
@@ -10,9 +10,7 @@
 6. Android 14 兼容性更新
 7. 支持多開應用凍結
 8. 支持關閉日誌
-
-## 提示
-與最新版NoActiveV2和內測版NoActiveV3配置文件不兼容
+9. 脚本API
 
 ## 下載地址
 https://github.com/Nep-Timeline/NoA-Mod/releases
