@@ -1,5 +1,12 @@
 ## 更新日誌
 
+150 -> 151
+1. 修改进程OomCurAdj及ProcState
+
+149 -> 150
+1. 修复了HyperOS的ANR报错
+2. 增强了MIUI系统的屏蔽ANR
+
 148 -> 149
 1. 修复了主动冻结bug
 2. 更换添加进程Hook方法
