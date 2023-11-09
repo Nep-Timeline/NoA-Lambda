@@ -1,4 +1,4 @@
-# NoActive-Mod
+# NoActive-λ
 基于NoActive v2的修改版本，获得更好的体验
 
 ## 目前與NoActiveV2原版的區別
@@ -13,6 +13,6 @@
 9. 脚本API
 
 ## 下載地址
-https://github.com/Nep-Timeline/NoA-Mod/releases
+https://github.com/Nep-Timeline/NoA-Lambda/releases
 
 https://123pan.com/s/h1szVv-FKV1H.html
