@@ -24,4 +24,4 @@ https://github.com/Nep-Timeline/NoA-Lambda/releases
 (测试版) https://www.123pan.com/s/h1szVv-oxj1H.html
 
 (正式版)
-https://www.123pan.com/s/h1szVv-mxj1H.html
+https://www.123pan.com/s/h1szVv-2nj1H.html
